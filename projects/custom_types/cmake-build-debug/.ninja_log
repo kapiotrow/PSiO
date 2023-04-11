@@ -1,0 +1,5 @@
+# ninja log v5
+30	68	1647430826522718732	custom_types__debug	4551e51dd12682d2
+43	334	6691434924580985	CMakeFiles/custom_types__debug.dir/main.c.obj	a84669b3b4dde949
+4	337	6691434924720999	CMakeFiles/custom_types__debug.dir/src/tasks.c.obj	b83b5ab292b0c7eb
+337	546	6691434926832308	custom_types__debug.exe	ef2438dcb6039321

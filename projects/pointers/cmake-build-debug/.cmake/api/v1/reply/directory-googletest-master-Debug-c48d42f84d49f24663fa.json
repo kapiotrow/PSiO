@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "googletest-master",
+		"source" : "C:/Users/karol/Documents/WDI/c/sem2/googletest-master"
+	}
+}

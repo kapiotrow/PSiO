@@ -1,0 +1,5 @@
+C:/Users/karol/CLionProjects/conditional_compilation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karol/CLionProjects/conditional_compilation/cmake-build-debug/CMakeFiles/conditional_compilation__debug_C99.dir
+C:/Users/karol/CLionProjects/conditional_compilation/cmake-build-debug/CMakeFiles/conditional_compilation__debug.dir
+C:/Users/karol/CLionProjects/conditional_compilation/cmake-build-debug/CMakeFiles/conditional_compilation__debug_C90.dir
+C:/Users/karol/CLionProjects/conditional_compilation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

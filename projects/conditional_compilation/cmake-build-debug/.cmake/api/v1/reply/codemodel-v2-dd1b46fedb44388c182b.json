@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "conditional_compilation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "conditional_compilation__debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conditional_compilation__debug-Debug-0811d9709d9e43ede2e3.json",
+					"name" : "conditional_compilation__debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conditional_compilation__debug_C90::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conditional_compilation__debug_C90-Debug-612872df889bf5a94d86.json",
+					"name" : "conditional_compilation__debug_C90",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conditional_compilation__debug_C99::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conditional_compilation__debug_C99-Debug-bee91e3ac9a220b36dcc.json",
+					"name" : "conditional_compilation__debug_C99",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/karol/CLionProjects/conditional_compilation/cmake-build-debug",
+		"source" : "C:/Users/karol/CLionProjects/conditional_compilation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
